@@ -1,0 +1,10 @@
+{
+   "contracts": [
+      {  
+         "filename": "vhue_array.sol",
+         "network": "optimistic-kovan",
+         "contract_hash": "0x2d35982fdbe4e89342228fa366bfd2b6ab35a7c2601fc2931f0cc7ab48f7b13d",
+         "contract_address": "0xc4E6ce2a0712f5afd948261F458eDfBDaa792d12"
+      }
+  ]
+}
